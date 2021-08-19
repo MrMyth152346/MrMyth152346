@@ -1,4 +1,4 @@
-Hello, I'm MrMyth! I am interested in lua.
+Hello! I started learning C++
 
 
 
