@@ -1,4 +1,4 @@
-Hello! I started learning C++
+C++, lua
 
 
 
